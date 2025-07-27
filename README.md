@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Java developer and cybersecurity ethusiast</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/userupload/21233790/file/original-6b3f49af74d32439cb69e98039f73e75.png?resize=752x&vertical=center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keerthigurugubelli&label=Profile%20views&color=0e75b6&style=flat" alt="keerthigurugubelli" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=badana sandeep&label=Profile%20views&color=0e75b6&style=flat" alt="badana sandeep" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/badana-sandeep-479b42282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Badana Sandeep" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/badana_sandeep" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="badana sandeep" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/sandeep0719/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gurugubelli keerthi" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/sandeep0719/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="badana sandeep" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
